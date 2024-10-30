@@ -1,0 +1,48 @@
+body{
+    background-image: -moz-radial-gradient(red , purple, blue);
+    font-family: cursive;
+}
+
+header{
+    margin: 150px 0;
+}
+
+.container{
+    padding: 20px;
+}
+
+.contenido-principal{
+    background-image: -moz-radial-gradient(white, green);
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.presupuesto p{
+    margin-bottom: 30px;
+    font-weight: bold;
+
+}
+
+.presupuesto p span{
+    font-weight: normal;
+    margin: 5%;
+}
+
+#gastos{
+    margin-bottom: 30px; 
+    margin: 10%;
+}
+
+h1{
+    font-family: unset;
+    color:rgb(255, 255, 255);
+    font-weight: 100;
+
+}
+
+h2{
+    font-family: fantasy;
+    font-size: 22px;
+    font-weight: 100;
+    margin-bottom:30px ;
+}
